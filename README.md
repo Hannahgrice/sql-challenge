@@ -1,0 +1,3 @@
+In this Challenge I was able to 'in detail' go through 6 different csv files in Postgres and analyze different aspects of employees and their information. 
+I had a lot of trouble with this challenge in the beginning, until I finally figured out with class help on how to get the csv files uploaded properly -- this worked when I creates the tables in a specific order, being; departments, titles, employees and then the remaining 3. 
+I learned how to easily extract csv file data in this assignments by using different JOIN commands (Inner, left), GROUP BY 's and ORDER BY 's.  This assignment was very challenging, but once I got comfortable it was very rewarding. 
